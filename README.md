@@ -1,4 +1,4 @@
-# setup — Express + TypeScript Project Generator 🚀
+# Setup — Express + TypeScript Project Generator 🚀
 
 **setup** is a powerful, interactive Bash script that automatically generates a full-featured, production-ready Express.js backend with TypeScript in seconds. Stop wasting time on boilerplate setup and focus on building your application.
 
