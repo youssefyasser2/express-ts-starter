@@ -27,7 +27,7 @@
 ### Method 1: Direct Download & Run
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/<your-username>/<repo-name>/main/setup.sh
+curl -O https://github.com/youssefyasser2/express-ts-starter/blob/main/setup.sh
 
 # Make it executable
 chmod +x setup.sh
